@@ -1,3 +1,9 @@
+---
+layout: single
+categories: java
+toc: true
+---
+
 # 제어문
 ## while문
 - 반복해서 문장을 수행해야 할 경우 while문을 사용한다

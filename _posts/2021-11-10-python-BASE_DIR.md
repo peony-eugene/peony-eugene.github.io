@@ -10,7 +10,8 @@ categories: python
 
 예를 들면, 아래 프로젝트에서 default.py파일의 PROJECT_ROOT는 C:\projects\myproject\config 이며, default.py파일의 BASE_DIR는 C:\projects\myproject 이다
 
-![image-20211110165524395](../images/2021-11-10-파이썬/2021-11-10-base_dir.png)
+![images](C:\workspace\blogging\peony-eugene.github.io\images\2021-11-10-파이썬\2021-11-10-base_dir.png)
+
 
 - 코드
 

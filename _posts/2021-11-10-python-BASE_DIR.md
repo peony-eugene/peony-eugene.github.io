@@ -1,10 +1,22 @@
+---
+
+layout: single
+categories: pandas
+toc: true
+
+---
+
+
+
+
+
 # BASE_DIR
 
 **PROJECT_ROOT는 현재 파일의 디렉터리이고, BASE_DIR 는 PROJECT_ROOT의 부모 디렉터리이다**
 
 예를 들면, 아래 프로젝트에서 default.py파일의 PROJECT_ROOT는 C:\projects\myproject\config 이며, default.py파일의 BASE_DIR는 C:\projects\myproject 이다
 
-![image-20211110165524395](../images/2021-11-10-base_dir.png)
+![image-20211110165524395](../images/2021-11-10-파이썬/2021-11-10-base_dir.png)
 
 - 코드
 

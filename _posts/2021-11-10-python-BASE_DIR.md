@@ -1,13 +1,7 @@
 ---
-
 layout: single
-categories: pandas
-toc: true
-
+categories: python
 ---
-
-
-
 
 
 # BASE_DIR
